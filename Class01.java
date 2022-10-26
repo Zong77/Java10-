@@ -1,4 +1,4 @@
-package ava10;
+package Java10;
 
 class Caaa {
 	public int num1;
