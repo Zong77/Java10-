@@ -1,5 +1,5 @@
-package java10;
+package ava10;
 
 public class Class02 {
-//num1 »P num2 «Å§i¦¨ private ¤§«á¡A´N¤£¯à±q Caaa ¥H¥~ªºÃş§O¦s¨ú¡A¤lÃş§O¥u¯àÄ~©Ó private ªºÅÜ¼Æ¡A¥i¥H©I¥s¡A¦ı¬O¤£¯à¦s¨ú¡C
+//num1 èˆ‡ num2 å®£å‘Šæˆ private ä¹‹å¾Œï¼Œå°±ä¸èƒ½å¾ Caaa ä»¥å¤–çš„é¡åˆ¥å­˜å–ï¼Œå­é¡åˆ¥åªèƒ½ç¹¼æ‰¿ private çš„è®Šæ•¸ï¼Œå¯ä»¥å‘¼å«ï¼Œä½†æ˜¯ä¸èƒ½å­˜å–ã€‚
 }
