@@ -1,4 +1,4 @@
-package java10;
+package Java10;
 
 class CRectangle1 {
 	protected int length;
@@ -34,4 +34,4 @@ public class Class20 {
 	}
 }
 //(a)
-//(c)©ó(a)©M(b)¤¤©Ò©w¸qªº¨â­Ó toString() method ±o¥H¦P®É¦s¦b©ó¤@­ÓÃş§O¤º¡A¬O§Q¥Î OPP ¸Ìªº¦h¸ü¡C
+//(c)æ–¼(a)å’Œ(b)ä¸­æ‰€å®šç¾©çš„å…©å€‹ toString() method å¾—ä»¥åŒæ™‚å­˜åœ¨æ–¼ä¸€å€‹é¡åˆ¥å…§ï¼Œæ˜¯åˆ©ç”¨ OPP è£¡çš„å¤šè¼‰ã€‚
