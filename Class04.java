@@ -1,4 +1,4 @@
-package java10;
+package Java10;
 
 class CRectangle2 {
 	private int length;
