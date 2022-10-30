@@ -1,4 +1,4 @@
-package java10;
+package Java10;
 
 class Caaa5 {
 	public int num1;
