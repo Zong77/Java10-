@@ -1,5 +1,5 @@
-package java10;
+package Java10;
 
 public class Class07 {
-//§â¸ê®Æ«Å§i¦¨ protected¡A¥i¦P®É­ÝÅU¨ì¦¨­ûªº¦w¥þ©Ê»P«K§Q©Ê¡A«Å§i¦¨ protected ªº¦¨­û¡A¥u¯à¨Ñ¤÷Ãþ§O»P¤lÃþ§Oªº¤º³¡¦s¨ú¡A¨ä¥LªºÃþ§OµLªkÅÜ§ó©ÎÅª¨ú¡C
+//æŠŠè³‡æ–™å®£å‘Šæˆ protectedï¼Œå¯åŒæ™‚å…¼é¡§åˆ°æˆå“¡çš„å®‰å…¨æ€§èˆ‡ä¾¿åˆ©æ€§ï¼Œå®£å‘Šæˆ protected çš„æˆå“¡ï¼Œåªèƒ½ä¾›çˆ¶é¡žåˆ¥èˆ‡å­é¡žåˆ¥çš„å…§éƒ¨å­˜å–ï¼Œå…¶ä»–çš„é¡žåˆ¥ç„¡æ³•è®Šæ›´æˆ–è®€å–ã€‚
 }
