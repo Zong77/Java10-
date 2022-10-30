@@ -1,5 +1,5 @@
-//¥i¦³®ÄÂ²¤Æµ{¦¡½X
-package java10;
+//å¯æœ‰æ•ˆç°¡åŒ–ç¨‹å¼ç¢¼
+package Java10;
 
 class CShape1 {
 	public double area() {
