@@ -1,6 +1,6 @@
-package java10;
+package Java10;
 
 public class Class16 {
-//¦b CRectangle Ãş§O¸Ì¡ACRectangle Ãş§O¡uhas-a¡vlength¡Bwidth ¤Î show() method¡C
-//CData Ãş§OÄ~©Ó CRectangle Ãş§O¡A¦]¦¹ CData Ãş§O¡uis-a¡vCRectangle Ãş§O¡C
+//åœ¨ CRectangle é¡åˆ¥è£¡ï¼ŒCRectangle é¡åˆ¥ã€Œhas-aã€lengthã€width åŠ show() methodã€‚
+//CData é¡åˆ¥ç¹¼æ‰¿ CRectangle é¡åˆ¥ï¼Œå› æ­¤ CData é¡åˆ¥ã€Œis-aã€CRectangle é¡åˆ¥ã€‚
 }
