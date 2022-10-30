@@ -1,4 +1,4 @@
-package java10;
+package Java10;
 
 class Car {
 	protected String owner;
@@ -11,8 +11,8 @@ class Car {
 
 //(a)
 	final void show() {
-		System.out.println("¨®¥D©m¦W" + owner);
-		System.out.println("¨®µP¸¹½X" + id);
+		System.out.println("è»Šä¸»å§“å" + owner);
+		System.out.println("è»Šç‰Œè™Ÿç¢¼" + id);
 	}
 }
 
@@ -27,9 +27,9 @@ class CColor extends Car {
 
 //(c)
 	public void show_data() {
-		System.out.println("¨®¥D©m¦W:" + owner);
-		System.out.println("¨®µP¸¹½X:" + id);
-		System.out.println("¨®¨­ÃC¦â:" + color);
+		System.out.println("è»Šä¸»å§“å:" + owner);
+		System.out.println("è»Šç‰Œè™Ÿç¢¼:" + id);
+		System.out.println("è»Šèº«é¡è‰²:" + color);
 	}
 }
 
@@ -41,4 +41,4 @@ public class Class17 {
 		mycar.show_data();
 	}
 }
-//(e)½sÄ¶«á¥X²{¿ù»~°T®§¡C±N CColor Ãş§O¸Ìªº show() method §ï¦W¡A¦b main() method ¸Ì¡A©I¥s·s§ï¦Wªº method¡C
+//(e)ç·¨è­¯å¾Œå‡ºç¾éŒ¯èª¤è¨Šæ¯ã€‚å°‡ CColor é¡åˆ¥è£¡çš„ show() method æ”¹åï¼Œåœ¨ main() method è£¡ï¼Œå‘¼å«æ–°æ”¹åçš„ methodã€‚
